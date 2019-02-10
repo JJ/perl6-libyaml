@@ -15,10 +15,10 @@ Profit.
 
 tony-o | thanks to ingy and tina for fuelling this creation with scotch and vegan pizza
 
-## Installation instructions
+if you must build this yourself, you can do
 
-If you are building from the repo, use
+> zef build .
 
-    zef install .
+or
 
-before testing.
+> src/build.sh
